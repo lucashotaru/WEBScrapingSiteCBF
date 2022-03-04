@@ -31,6 +31,7 @@ namespace CBFWebScraping
                 csv.NextRecord();
                 csv.WriteRecords(lista);
             }
+            //teste
 
             return Path.GetFullPath(filePath);
         }
