@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWjt4n0ns3keBHGMl+sRmHMP55SDOSxYrWFjQnDFCFmzEAKPOM3RTBTqNBm/Fc9yXg6qA+BBTUzg/rNzAWm14w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alunos\\Downloads\\CBFWebScraping-20220302T163441Z-001\\CBFWebScraping\\CBFWebScraping\\CBFWebScraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alunos\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\Alunos\\.nuget\\packages\\htmlagilitypack\\1.11.42\\htmlagilitypack.1.11.42.nupkg.sha512",
+    "C:\\Users\\Alunos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
