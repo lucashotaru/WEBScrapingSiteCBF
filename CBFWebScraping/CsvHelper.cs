@@ -12,7 +12,7 @@ namespace CBFWebScraping
     {
         public static string SaveCBFInfo(List<CBFInfoDTO> lista)
         {
-            string folderName = "results"
+            string folderName = "results";
             string fileName = "cbfInfo.csv";
             var filePath = $"{folderName}\\{fileName}";
 
@@ -31,7 +31,8 @@ namespace CBFWebScraping
                 csv.NextRecord();
                 csv.WriteRecords(lista);
             }
-
+            //teste//
+            
             return Path.GetFullPath(filePath);
         }
     }
